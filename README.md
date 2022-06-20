@@ -4,7 +4,6 @@ description: A HTTP module server
 tags:
   - http
   - nodejs
-  - javascript
 ---
 
 # HTTP Module Example
